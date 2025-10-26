@@ -82,12 +82,12 @@ but with **minimum carbon emissions** and **no manual control**.
 ---
 
 **Result:**
-✅ All devices finish tasks on time  
-✅ User comfort unchanged  
-✅ Grid demand balanced  
-✅ CO₂ emissions significantly reduced  
+All devices finish tasks on time  
+User comfort unchanged  
+Grid demand balanced  
+CO₂ emissions significantly reduced  
 
-> The user doesn’t have to do anything — the AI automatically optimizes all smart-home energy tasks for the lowest-carbon hours while meeting every deadline.
+- The user doesn’t have to do anything — the AI automatically optimizes all smart-home energy tasks for the lowest-carbon hours while meeting every deadline.
 
 
 ---
