@@ -42,5 +42,5 @@ An AI-powered system that forecasts renewable energy (solar & wind) and grid dem
 ---
 
 ### Summary  
-> Uses AI + real-time carbon data to make electricity consumption smarter, cleaner, and more sustainable.  
-> Inspired by carbon-aware systems at Google, Microsoft, and Tesla.
+- Uses AI + real-time carbon data to make electricity consumption smarter, cleaner, and more sustainable.  
+- Inspired by carbon-aware systems at Google, Microsoft, and Tesla.
