@@ -1,4 +1,4 @@
-# ⚡ Smart Grid Carbon Reduction System (Reinforcement Learning Edition)
+# ⚡ Smart Grid Carbon Reduction System (Reinforcement Learning)
 
 An AI-powered platform that forecasts electricity demand, retrieves real-time carbon
 intensity, and optimises energy consumption with reinforcement learning to reduce CO₂
