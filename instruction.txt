@@ -1,0 +1,12 @@
+lsof -nP -iTCP:8000
+kill (PIDNo.)
+
+uvicorn backend.main:app --host 127.0.0.1 --port 8000
+
+streamlit run frontend/app.py
+
+  1.run git init (or move into the actual repo if it already exists elsewhere),
+  2. add your remote with git remote add origin <your-url>,
+  3. commit your work, git commit -m "comment"
+  4. git push origin <branch>.
+  

@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+requests
+pandas
+numpy
+scikit-learn
+tensorflow
+torch
+stable-baselines3
+gymnasium
+streamlit
+plotly
+matplotlib
+python-dotenv
+pydantic
